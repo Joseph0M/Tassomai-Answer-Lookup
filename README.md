@@ -12,3 +12,11 @@ Due to formatting limitations, about 10% of the tasssomai questions cannot be re
  
  `To download, click Code > Download Zip > Open file > Open find.exe`
  
+## Dependencies
+ 
+ The program uses built in packages that should not require manual download
+ 
+ ### Credit to detectivevoke for providing the Awnser Database
+ 
+ 
+ This software is closed source, please contact me if you require the source code
