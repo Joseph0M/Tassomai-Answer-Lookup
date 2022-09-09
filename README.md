@@ -1,22 +1,53 @@
 # Tassomai-Awnser-Finder
 Just enter your question and boom, it returns your awnser!
 
+# Version v1.0
+
+Files for v1.0 can be found above
+## Usage
 Run the `find.exe` file, enter the full question and click find, the program will return the complete awnser!
 Most, if not all questions are listed on the database
 
-Due to formatting limitations, about 10% of the tasssomai questions cannot be read/illegible, mostly Physics questions!
+Due to formatting limitations in v1.0, about 10% of the tasssomai questions cannot be read/illegible, mostly Physics questions!
  
- ## Installation
+ ## Installation for v1.0
  
  Installing the program should be pretty easy
  
  `To download, click Code > Download Zip > Open file > Open find.exe`
  
-## Dependencies
+# Version 1.1a
+
+The changelog of verison 1.1.0a can be found in Releases
+## Usage 
+
+Run `Tassomai Answer lookup.ink` to run the program.
+
+Just enter your question in the entry at the top, click find, and the answer should appear below.
+
+For answers that return an Equation, the LaTeX string will be rendered by sympy and displayed as and image at the bottom.
+
+## Istallation for v1.1
+This version relies heavily on 3rd party packages, they can be downloaded below
+
+### SymPy
+Type the following into the cmd line
+
+`pip intall sympy`
+### latex2sympy
+To install, type the following into the cmd line
+
+`pip install latex2sympy2`
+
+### MixTec
+
+This program relies on mixtec to render the LaTeX equations. To install MixTec, see the below website website:
+
+https://miktex.org/howto/install-miktex
+
+Please note: it may require adding the latex.exe file to path.
+
+ ## Notes:
+Credit to detectivevoke for providing the Awnser Database
  
- The program uses built in packages that should not require manual download
- 
- ### Credit to detectivevoke for providing the Awnser Database
- 
- 
- This software is closed source, please contact me if you require the source code
+This software is closed source, please contact me if you require the source code
