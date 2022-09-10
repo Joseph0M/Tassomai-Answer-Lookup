@@ -1,24 +1,10 @@
-# Tassomai-Awnser-Finder
+# Tassomai-Awnser-Lookup
 Just enter your question and boom, it returns your awnser!
 
-# Version v1.0
-
-Files for v1.0 can be found above
-## Usage
-Run the `find.exe` file, enter the full question and click find, the program will return the complete awnser!
-Most, if not all questions are listed on the database
-
-Due to formatting limitations in v1.0, about 10% of the tasssomai questions cannot be read/illegible, mostly Physics questions!
- 
- ## Installation for v1.0
- 
- Installing the program should be pretty easy
- 
- `To download, click Code > Download Zip > Open file > Open find.exe`
- 
+It supports about 95% of questions found on Tassomai currently
 # Version 1.1a
 
-The changelog of verison 1.1.0a can be found in Releases
+The changelog for verison 1.1.0a can be found in Releases
 ## Usage 
 
 Run `Tassomai Answer lookup.ink` to run the program.
@@ -47,7 +33,23 @@ https://miktex.org/howto/install-miktex
 
 Please note: it may require adding the latex.exe file to path.
 
- ## Notes:
-Credit to detectivevoke for providing the Awnser Database
+# Version v1.0
+
+Files for v1.0 can be found above. This version cannot render equations, often found in Physics Questions. Please use the most Up-to-date release.
+## Usage
+Run the `find.exe` file, enter the full question and click find, the program will return the complete awnser!
+Most, if not all questions are listed on the database
+
+Due to formatting limitations in v1.0, about 10% of the tasssomai questions cannot be read/illegible, mostly Physics questions!
+ 
+ ## Installation for v1.0
+ 
+ Installing the program should be pretty easy
+ 
+ `To download, click Code > Download Zip > Open file > Open find.exe`
+ 
+  ## Notes:
+Credit to detectivevoke for providing the Answer Database
  
 This software is closed source, please contact me if you require the source code
+ 
