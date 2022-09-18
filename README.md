@@ -1,19 +1,52 @@
 # Tassomai-Awnser-Lookup
 Just enter your question and boom, it returns your awnser!
 
-It supports about 95% of questions found on Tassomai currently
-# Version 1.1a
+Tassomai, a Leading Science homework website, provides schools and indviduals with revision and homework resources. Most Teachers require Students to complete their daily goals, But to put the power back into students hands, the Answer lookup program provides you with all of Tassomai's Science related questions, Free of charge!
+
+It supports about 95% of science related questions found on Tassomai currently. Formed from the inspration of Gloryness' hit software, Tassomai Automation, this tool works around tassomai's security fetures and roadblocks to provide you with choice. With this software, there's no possibility of being blocked or banned compared to other repositories out there. The program is based on a Local database model, so the code will never call on online websites. 
+
+The most stable release at the time of writing is v1.1.0a
+
+# Version 1.2.0-alpha
+
+Starting from this version, Source code will be avalible
+
+The changelog for verison 1.2.0-alpha can be found in Releases
+### Screenshots
+![image](https://user-images.githubusercontent.com/75663305/190911377-46e397b6-8364-4a37-b59c-fed5d52c488c.png)
+
+![image](https://user-images.githubusercontent.com/75663305/190911390-bd0107d7-7663-4d23-aba7-683f30f427ed.png)
+
+![image](https://user-images.githubusercontent.com/75663305/190911368-87b00333-0a11-4b7c-bc95-619d615dfc7c.png)
+
+Dynamic Search:
+
+![image](https://user-images.githubusercontent.com/75663305/190911608-b2b0cfba-2fb5-421a-99fc-dfda9df26299.png)
+
+## Usage
+Run `python3 dist/TAL_V1.2/Tassomai Answer lookup.exe` in the Command Line to run the program. Installation instructions can be found below
+
+Just enter your question in the entry at the top, click find, and the answer should appear below.
+
+For answers that return an Equation, the LaTeX string will be rendered by sympy and displayed as and image at the bottom. if the answer cannot be located in the database, v1.2 features Dynamic Search, giving you options and guaranteeing it will find you an answeer
+
+# Version 1.1.0a
 
 The changelog for verison 1.1.0a can be found in Releases
-## Usage 
+### Screenshots
+![image](https://user-images.githubusercontent.com/75663305/190911377-46e397b6-8364-4a37-b59c-fed5d52c488c.png)
 
-Run `Tassomai Answer lookup.ink` to run the program.
+![image](https://user-images.githubusercontent.com/75663305/190911390-bd0107d7-7663-4d23-aba7-683f30f427ed.png)
+
+![image](https://user-images.githubusercontent.com/75663305/190911368-87b00333-0a11-4b7c-bc95-619d615dfc7c.png)
+
+## Usage
+Run `python3 dist/find/find.exe` in the Command Line to run the program.
 
 Just enter your question in the entry at the top, click find, and the answer should appear below.
 
 For answers that return an Equation, the LaTeX string will be rendered by sympy and displayed as and image at the bottom.
-
-## Istallation for v1.1
+## Istallation for v1.1/1.2
 This version relies heavily on 3rd party packages, they can be downloaded below
 
 ### SymPy
