@@ -1,6 +1,6 @@
 # Tassomai-Awnser-Lookup
 Just enter your question and boom, it returns your awnser!
-
+ Due to a DMCA Strike, the Database has been removed. Please contact me for the db.json file.
 Tassomai, a Leading Science homework website, provides schools and indviduals with revision and homework resources. Most Teachers require Students to complete their daily goals, But to put the power back into students hands, the Answer lookup program provides you with all of Tassomai's Science related questions, Free of charge!
 
 It supports about 95% of science related questions found on Tassomai currently. Formed from the inspration of Gloryness' hit software, Tassomai Automation, this tool works around tassomai's security fetures and roadblocks to provide you with choice. With this software, there's no possibility of being blocked or banned compared to other repositories out there. The program is based on a Local database model, so the code will never call on online websites. 
