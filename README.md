@@ -7,7 +7,7 @@ Tassomai, a Leading Science homework website, provides schools and indviduals wi
 
 It supports about 95% of science related questions found on Tassomai currently. Formed from the inspration of Gloryness' hit software, Tassomai Automation, this tool works around tassomai's security fetures and roadblocks to provide you with choice. With this software, there's no possibility of being blocked or banned compared to other repositories out there. The program is based on a Local database model, so the code will never call on online websites. 
 
-The most stable release at the time of writing is v1.1.0a
+The most stable release at the time of writing is v1.1.0a but it is still quite buggy. feel free to add to this repo and create pull requests
 
 # Version 1.2.0-alpha
 
