@@ -7,9 +7,9 @@ Tassomai, a Leading Science homework website, provides schools and indviduals wi
 
 It supports about 95% of science related questions found on Tassomai currently. Formed from the inspration of Gloryness' hit software, Tassomai Automation, this tool works around tassomai's security fetures and roadblocks. With this software, there's no possibility of being blocked or banned compared to other repositories out there. The program is based on a Local database model, so the code will never call on online APIs. 
 
-The most stable release at the time of writing is v1.1.0a but it is still quite buggy. feel free to add to this repo and create pull requests
+The most stable release at the time of writing is v1.2.1 but it is still quite buggy. feel free to add to this repo and create pull requests
 
-# Version 1.2.0-alpha
+# Version 1.2.1
 
 Starting from this version, Source code will be avalible
 
@@ -26,11 +26,26 @@ Dynamic Search:
 ![image](https://user-images.githubusercontent.com/75663305/190911608-b2b0cfba-2fb5-421a-99fc-dfda9df26299.png)
 
 ## Usage
-Run `python3 dist/TAL_V1.2/Tassomai Answer lookup.exe` in the Command Line to run the program. Installation instructions can be found below
+Run `Tassomai Answer lookup.exe` to run the program, or if you are using the source code, Run `v1.2 Source/cli.py` 
 
-Just enter your question in the entry at the top, click find, and the answer should appear below.
+Installation instructions can be found below
 
-For answers that return an Equation, the LaTeX string will be rendered by sympy and displayed as and image at the bottom. if the answer cannot be located in the database, v1.2 features Dynamic Search, giving you options and guaranteeing it will find you an answeer
+Just copy and enter your question in the entry at the top, click find, and the answer should appear below.
+
+For answers that return an Equation, the LaTeX string will be rendered by sympy and displayed as and image at the bottom. if the answer cannot be located in the database, v1.2 features Dynamic Search, giving you options and guaranteeing it will find you an answer
+
+# How to copy Questions on Tassomai
+It seems like this repo is on some sort of watchlist and being monitored (Hi Tassomai!), and Tassomai is desperate to get rid of me! (Quite of funny to be honest).
+
+I have recently been made aware that atempts have been made to prohibit the program, but I've found a way round it by altering the CSS style sheet.
+Folow the steps below to be able to copy and paste questions on their website. See copy-tutorial folder for the high-res images
+
+<img src="https://github.com/Joseph0M/Tassomai-Answer-Lookup/blob/2ad2ff9d057bf5e44c794119b5438c08d059e6c2/copy-tutorial/Screenshot%202022-12-31%20152301.png" width="450"  />
+
+<img src="https://github.com/Joseph0M/Tassomai-Answer-Lookup/blob/2ad2ff9d057bf5e44c794119b5438c08d059e6c2/copy-tutorial/Screenshot%202022-12-31%20152346.png" width="750"  />
+<img src="https://github.com/Joseph0M/Tassomai-Answer-Lookup/blob/2ad2ff9d057bf5e44c794119b5438c08d059e6c2/copy-tutorial/Screenshot%202022-12-31%20152426.png" width="750"  />
+<img src="https://github.com/Joseph0M/Tassomai-Answer-Lookup/blob/2ad2ff9d057bf5e44c794119b5438c08d059e6c2/copy-tutorial/Screenshot%202022-12-31%20152606.png" width="650"  />
+
 
 # Version 1.1.0a
 
@@ -43,7 +58,7 @@ The changelog for verison 1.1.0a can be found in Releases
 ![image](https://user-images.githubusercontent.com/75663305/190911368-87b00333-0a11-4b7c-bc95-619d615dfc7c.png)
 
 ## Usage
-Run `python3 dist/find/find.exe` in the Command Line to run the program.
+Run `Tassomai Answer lookup.exe` to run the program, or if you are using the source code, Run `v1.2 Source/cli.py`
 
 Just enter your question in the entry at the top, click find, and the answer should appear below.
 
@@ -51,6 +66,8 @@ For answers that return an Equation, the LaTeX string will be rendered by sympy 
 ## Istallation for v1.1/1.2
 This version relies heavily on 3rd party packages, they can be downloaded below
 
+ Downoad the lateset reease under Releases.
+ 
 ### SymPy
 Type the following into the cmd line
 
