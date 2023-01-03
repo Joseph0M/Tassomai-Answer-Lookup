@@ -1,7 +1,7 @@
 # Tassomai-Awnser-Lookup
 Just enter your question and boom, it returns your awnser!
 
- Due to a DMCA Strike, the Database has been removed. Please contact me for the db.json file.
+ Due to a DMCA Strike, the Database has been removed. Please use your own database.
  
 Tassomai, a Leading Science homework website, provides schools and indviduals with revision and homework resources. Most Teachers require Students to complete their daily goals, But if you want to cheat the system, the Answer lookup program provides you with all of Tassomai's Science related questions, Free of charge!
 
