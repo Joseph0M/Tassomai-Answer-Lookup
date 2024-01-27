@@ -1,11 +1,17 @@
 # Tassomai-Awnser-Lookup
 Just enter your question and boom, it returns your awnser!
 
- Due to a DMCA Strike, the Database has been removed. Please use your own database.
- 
-Tassomai, a Leading Science homework website, provides schools and indviduals with revision and homework resources. Most Teachers require Students to complete their daily goals, But if you want to cheat the system, the Answer lookup program provides you with all of Tassomai's Science related questions, Free of charge!
+### Notices:
+Due to a DMCA Strike, the Database has been removed. Please use your own database.
 
-It supports about 95% of science related questions found on Tassomai currently. Formed from the inspration of Gloryness' hit software, Tassomai Automation, this tool works around tassomai's security fetures and roadblocks. With this software, there's no possibility of being blocked or banned compared to other repositories out there. The program is based on a Local database model, so the code will never call on online APIs. 
+This repository is no longer being maintained and has been archived.
+For general inquiries, please find my contact infomation in my profile.
+
+### About TAL:
+ 
+Tassomai, a Leading Science homework website, provides schools and indviduals with revision and homework resources. The Answer lookup program provides you with all of Tassomai's Science related questions.
+
+It supports about 95% of science related questions found on Tassomai currently. Formed from the inspration of Gloryness' hit software, Tassomai Automation. The program is based on an on-device database model, so the code will never call on APIs. 
 
 The most stable release at the time of writing is v1.2.1 but it is still quite buggy. feel free to add to this repo and create pull requests
 
@@ -35,9 +41,8 @@ Just copy and enter your question in the entry at the top, click find, and the a
 For answers that return an Equation, the LaTeX string will be rendered by sympy and displayed as and image at the bottom. if the answer cannot be located in the database, v1.2 features Dynamic Search, giving you options and guaranteeing it will find you an answer
 
 # How to copy Questions on Tassomai
-It seems like this repo is on some sort of watchlist and being monitored (Hi Tassomai!), and Tassomai is desperate to get rid of me! (Quite of funny to be honest).
 
-I have recently been made aware that atempts have been made to prohibit the program, but I've found a way round it by altering the CSS style sheet.
+Some methods have been implimented to prohibit students from using this software.
 Folow the steps below to be able to copy and paste questions on their website. See copy-tutorial folder for the high-res images
 
 <img src="https://github.com/Joseph0M/Tassomai-Answer-Lookup/blob/2ad2ff9d057bf5e44c794119b5438c08d059e6c2/copy-tutorial/Screenshot%202022-12-31%20152301.png" width="450"  />
@@ -102,6 +107,7 @@ Due to formatting limitations in v1.0, about 10% of the tasssomai questions cann
  
   ## Notes:
 Credit to detectivevoke for providing the Answer Database
- 
-This software is closed source, please contact me if you require the source code
- 
+ For general inquires, rind my cohtact infomation on my profile.
+Relevant Trademarks and IP are the property of Tassomai LTD
+
+Software and other distributed content is the IP of Joseph0M
